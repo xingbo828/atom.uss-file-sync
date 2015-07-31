@@ -1,0 +1,20 @@
+{
+  "name": "uss-file-sync",
+  "author": "Bo Xing <bo.xing@telus.com>",
+  "main": "./lib/uss-file-sync",
+  "version": "0.0.0",
+  "description": "Atom package to sync files to server",
+  "keywords": [
+    "TELUS", "USS File Sync"
+  ],
+  "activationCommands": [{
+    "atom-workspace": "uss-file-sync:uss-sync-all"
+  }],
+  "repository": "https://github.com/atom/uss-file-sync",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
