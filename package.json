@@ -2,7 +2,7 @@
   "name": "uss-file-sync",
   "author": "Bo Xing <bo.xing@telus.com>",
   "main": "./lib/uss-file-sync",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Atom package to sync files to server",
   "keywords": [
     "TELUS",
